@@ -1,0 +1,5 @@
+perimetro = float(input(" digite o valor do perimetro:"))
+area = float (input(" digite a área do retangulo ;"))
+valor_total = perimetro + área 
+ 
+print (valor_total)
