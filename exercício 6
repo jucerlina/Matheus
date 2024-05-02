@@ -1,0 +1,18 @@
+nota = float(input("digite a nota : "))
+
+
+if nota > 4.0 and nota < 6.0 :
+    print("d")
+
+elif nota > 6.0 and nota < 7.6 :
+    print("c")
+
+elif nota > 8.0 and nota < 9.5 : 
+
+    print("b")
+         
+elif nota > 9.0:
+    print ('a')
+            
+else:
+    print("f")
